@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I work at SSW ssw.com.au/people/babanazar-kamyljanov
+### - 🔭 I work at SSW https://ssw.com.au/people/babanazar-kamyljanov
 ### - 🌱 I’m currently learning Scrum, DevOps.
 ### - 👯 I’m looking to collaborate to improve SugarLearning https://sugarlearning.com
 ### - 💬 Ask me about .NET Core, React, Angular.
