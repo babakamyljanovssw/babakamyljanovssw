@@ -6,3 +6,5 @@
 ### - 📫 How to reach me: babakamyljanov@ssw.com.au
 ### - 😄 Pronouns: He/him
 ### - ⚡ Fun fact: I sometimes can't differentiate red with green :)
+
+[![Babanazar's github stats](https://github-readme-stats.vercel.app/api?username=babakamyljanovssw&theme=dark)](https://github.com/babakamyljanovssw/github-readme-stats)
