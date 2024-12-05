@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🔭 I work at SSW https://ssw.com.au/people/babanazar-kamyljanov
+### - 🔭 I work at SSW https://ssw.com.au/people/baba-kamyljanov
 ### - 🌱 I’m currently learning Next JS.
 ### - 👯 I’m looking to collaborate to improve [SSW Rules](https://www.ssw.com.au/rules/) and [SSW Website](https://www.ssw.com.au)
 ### - 💬 Ask me about .NET, ASP.NET Core MVC, Angular.
