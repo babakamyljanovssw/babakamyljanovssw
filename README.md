@@ -5,6 +5,6 @@
 ### - 💬 Ask me about .NET, ASP.NET Core MVC, Angular.
 ### - 📫 How to reach me: babakamyljanov@ssw.com.au
 ### - 😄 Pronouns: He/him
-### - ⚡ Fun fact: I sometimes can't differentiate red with green :)
+### - ⚡ Fun fact: I can't ski, falled 100 times when tried for the first time :)
 
 [![Babanazar's github stats](https://github-readme-stats.vercel.app/api?username=babakamyljanovssw&theme=dark)](https://github.com/babakamyljanovssw/github-readme-stats)
