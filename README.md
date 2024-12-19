@@ -5,6 +5,6 @@
 ### - 💬 Ask me about .NET, ASP.NET Core MVC, Angular.
 ### - 📫 How to reach me: babakamyljanov@ssw.com.au
 ### - 😄 Pronouns: He/him
-### - ⚡ Fun fact: I can't ski, falled 100 times when tried for the first time :)
+### - ⚡ Fun fact: Tried ski for the first time and still couldn't learn't it, falled bunch of times, but it was fun :)
 
 [![Babanazar's github stats](https://github-readme-stats.vercel.app/api?username=babakamyljanovssw&theme=dark)](https://github.com/babakamyljanovssw/github-readme-stats)
