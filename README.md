@@ -7,13 +7,14 @@
 ### - 😄 Pronouns: He/him
 ### - ⚡ Fun fact: I've always wanted to try real skiing and thought it would be easy, but that idea disappeared when I actually experienced it haha. I fell a bunch of times, but it was fun :)
 
+<!--
 [![Babanazar's github stats](https://github-readme-stats.vercel.app/api?username=babakamyljanovssw&theme=dark)](https://github.com/babakamyljanovssw/github-readme-stats)
+-->
 
 ## 📊 GitHub at a Glance
 
-<!-- Profile Summary Card 
+<!-- Profile Summary Card -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=babakamyljanovssw&theme=github_dark)
--->
 
 ---
 
