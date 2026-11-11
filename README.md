@@ -1,11 +1,13 @@
-### Hi there 👋
-### - 🔭 I work at SSW https://ssw.com.au/people/baba-kamyljanov
-### - 🌱 I’m currently learning Next JS, TinaCMS.
-### - 👯 I’m looking to collaborate to improve [YakShaver AI](https://yakshaver.ai), [SSW Rules](https://www.ssw.com.au/rules/), and [SSW Website](https://www.ssw.com.au)
-### - 💬 Ask me about .NET, Angular, Next.js, Sql Server.
-### - 📫 How to reach me: babakamyljanov@ssw.com.au
-### - 😄 Pronouns: He/him
-### - ⚡ Fun fact: I've always wanted to try real skiing and thought it would be easy, but that idea disappeared when I actually experienced it haha. I fell a bunch of times, but it was fun :)
+### Hi there 👋 I'm Babanazar
+
+Software engineer. I use Claude every day at work, and I share the AI setups, skills and workflows that actually ship, tested on real projects, not demos.
+
+- 🔭 I work as a software engineer
+- 🤖 I'm building and sharing Claude Code skills, plugins and AI workflows
+- 💬 Ask me about C# & .NET (ASP.NET Core, Blazor), TypeScript, Next.js, Astro & TinaCMS, Angular, SQL Server, and AI-assisted development with Claude Code
+- 📱 AI workflows I post: [Instagram @babanazar.ai](https://www.instagram.com/babanazar.ai/) · [X @babanazar_ai](https://x.com/babanazar_ai)
+- 📫 How to reach me: babanazar.work@gmail.com
+- 😄 Pronouns: He/him
 
 <!--
 [![Babanazar's github stats](https://github-readme-stats.vercel.app/api?username=babakamyljanovssw&theme=dark)](https://github.com/babakamyljanovssw/github-readme-stats)
@@ -29,6 +31,6 @@
 
 ## ⏱️ Productivity Patterns
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calumjs&theme=github_dark&utcOffset=10)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babakamyljanovssw&theme=github_dark&utcOffset=8)
 
 ---
